@@ -14,19 +14,14 @@ body {
   color: var(--main-font-color);
 }
 .top-header {
-  position: absolute;
   width: 1600px;
   height: 80px;
-  left: 0px;
-  top: 0px;
 }
 
 .agencja-h1 {
-  position: absolute;
   width: 696px;
   height: 120px;
-  left: 452px;
-  top: 200px;
+
   font-weight: 900;
   font-size: 2.75em;
   line-height: 60px;
@@ -38,11 +33,8 @@ body {
 }
 
 .agencja-button {
-  position: absolute;
   width: 200px;
   height: 50px;
-  left: 700px;
-  top: 360px;
 
   background: var(--company-blue);
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
@@ -59,20 +51,15 @@ body {
 }
 
 .agencja-title {
-  position: absolute;
   width: 1600px;
   height: 600px;
-  left: 0px;
-  top: 80px;
+
   background: var(--dark-background-color);
 }
 
 .webstudio {
-  position: absolute;
   width: 145px;
   height: 31px;
-  left: 215px;
-  top: 24px;
 
   font-family: "Raleway";
   text-decoration: none;
@@ -88,28 +75,19 @@ body {
 }
 
 .nav-list-1 {
-  position: absolute;
   width: 53px;
   height: 16px;
-  left: 453px;
-  top: 32px;
 }
 
 /* Here I didn't know how to use % values so I used px */
 .nav-list-2 {
-  position: absolute;
   width: 51px;
   height: 16px;
-  left: 554px;
-  top: 32px;
 }
 
 .nav-list-3 {
-  position: absolute;
   width: 51px;
   height: 16px;
-  left: 656px;
-  top: 32px;
 }
 
 .navigation > li {
@@ -138,11 +116,9 @@ body {
 .contact-mail-1 {
   text-decoration: none;
   color: var(--mian-font-color);
-  position: absolute;
+
   width: 135px;
   height: 16px;
-  left: 1078px;
-  top: 32px;
 
   font-weight: 500;
   font-size: 0.875em;
@@ -161,11 +137,9 @@ body {
 .contact-phone-1 {
   text-decoration: none;
   color: var(--mian-font-color);
-  position: absolute;
+
   width: 110px;
   height: 16px;
-  left: 1263px;
-  top: 32px;
 
   font-weight: 500;
   font-size: 0.875em;
@@ -185,11 +159,8 @@ body {
   list-style-type: none;
 }
 .agencja-content-header-1 {
-  position: absolute;
   width: 270px;
   height: 16px;
-  left: 215px;
-  top: 774px;
 
   font-weight: 700;
   font-size: 0.875em;
@@ -200,11 +171,8 @@ body {
   color: var(--dark-font-color);
 }
 .agencja-content-p-1 {
-  position: absolute;
   width: 270px;
   height: 75px;
-  left: 215px;
-  top: 800px;
 
   font-weight: 400;
   font-size: 0.875em;
@@ -212,11 +180,8 @@ body {
   letter-spacing: 0.03em;
 }
 .agencja-content-header-2 {
-  position: absolute;
   width: 270px;
   height: 16px;
-  left: 515px;
-  top: 774px;
 
   font-weight: 700;
   font-size: 0.875em;
@@ -228,11 +193,8 @@ body {
 }
 
 .agencja-content-p-2 {
-  position: absolute;
   width: 270px;
   height: 75px;
-  left: 515px;
-  top: 800px;
 
   font-weight: 400;
   font-size: 0.875em;
@@ -240,11 +202,8 @@ body {
   letter-spacing: 0.03em;
 }
 .agencja-content-header-3 {
-  position: absolute;
   width: 270px;
   height: 16px;
-  left: 815px;
-  top: 774px;
 
   font-weight: 700;
   font-size: 0.875em;
@@ -256,11 +215,8 @@ body {
 }
 
 .agencja-content-p-3 {
-  position: absolute;
   width: 270px;
   height: 75px;
-  left: 815px;
-  top: 800px;
 
   font-weight: 400;
   font-size: 0.875em;
@@ -268,11 +224,8 @@ body {
   letter-spacing: 0.03em;
 }
 .agencja-content-header-4 {
-  position: absolute;
   width: 270px;
   height: 16px;
-  left: 1115px;
-  top: 774px;
 
   font-weight: 700;
   font-size: 0.875em;
@@ -284,11 +237,8 @@ body {
 }
 
 .agencja-content-p-4 {
-  position: absolute;
   width: 270px;
   height: 75px;
-  left: 1115px;
-  top: 800px;
 
   font-weight: 400;
   font-size: 0.875em;
@@ -297,11 +247,8 @@ body {
 }
 
 .agencja-scope-header {
-  position: absolute;
   width: 354px;
   height: 42px;
-  left: 623px;
-  top: 969px;
 
   font-weight: 700;
   font-size: 2.25em;
@@ -317,35 +264,23 @@ body {
 }
 
 .agencja-scope-img1 {
-  position: absolute;
   width: 370px;
   height: 294px;
-  left: 215px;
-  top: 1061px;
 }
 
 .agencja-scope-img2 {
-  position: absolute;
   width: 370px;
   height: 294px;
-  left: 615px;
-  top: 1061px;
 }
 
 .agencja-scope-img3 {
-  position: absolute;
   width: 370px;
   height: 294px;
-  left: 1015px;
-  top: 1061px;
 }
 
 .agencja-team {
-  position: absolute;
   width: 1600px;
   height: 648px;
-  left: 0px;
-  top: 1449px;
 
   background: var(--light-background-color);
 }
@@ -354,11 +289,8 @@ body {
   list-style-type: none;
 }
 .agencja-team-header {
-  position: absolute;
   width: 214px;
   height: 42px;
-  left: 695px;
-  top: 94px;
 
   font-weight: 700;
   font-size: 2.25em;
@@ -370,48 +302,33 @@ body {
 }
 
 .agencja-team-img1 {
-  position: absolute;
   width: 270px;
   height: 368px;
-  left: 215px;
-  top: 186px;
 
   background: var(--white-color);
 }
 .agencja-team-img2 {
-  position: absolute;
   width: 270px;
   height: 368px;
-  left: 515px;
-  top: 186px;
 
   background: var(--white-color);
 }
 .agencja-team-img3 {
-  position: absolute;
   width: 270px;
   height: 368px;
-  left: 815px;
-  top: 186px;
 
   background: var(--white-color);
 }
 .agencja-team-img4 {
-  position: absolute;
   width: 270px;
   height: 368px;
-  left: 1115px;
-  top: 186px;
 
   background: var(--white-color);
 }
 
 .agencja-team-name1 {
-  position: absolute;
   width: 72px;
   height: 19px;
-  left: 99px;
-  top: 270px;
 
   font-weight: 500;
   line-height: 19px;
@@ -423,11 +340,8 @@ body {
 }
 
 .agencja-team-job1 {
-  position: absolute;
   width: 130px;
   height: 19px;
-  left: 70px;
-  top: 299px;
 
   font-weight: 400;
   line-height: 19px;
@@ -436,11 +350,8 @@ body {
   letter-spacing: 0.03em;
 }
 .agencja-team-name2 {
-  position: absolute;
   width: 72px;
   height: 19px;
-  left: 99px;
-  top: 270px;
 
   font-weight: 500;
   line-height: 19px;
@@ -452,11 +363,8 @@ body {
 }
 
 .agencja-team-job2 {
-  position: absolute;
   width: 130px;
   height: 19px;
-  left: 70px;
-  top: 299px;
 
   font-weight: 400;
   line-height: 19px;
@@ -465,11 +373,8 @@ body {
   letter-spacing: 0.03em;
 }
 .agencja-team-name3 {
-  position: absolute;
   width: 72px;
   height: 19px;
-  left: 99px;
-  top: 270px;
 
   font-weight: 500;
   line-height: 19px;
@@ -481,11 +386,8 @@ body {
 }
 
 .agencja-team-job3 {
-  position: absolute;
   width: 130px;
   height: 19px;
-  left: 70px;
-  top: 299px;
 
   font-weight: 400;
   line-height: 19px;
@@ -494,11 +396,8 @@ body {
   letter-spacing: 0.03em;
 }
 .agencja-team-name4 {
-  position: absolute;
   width: 72px;
   height: 19px;
-  left: 99px;
-  top: 270px;
 
   font-weight: 500;
   line-height: 19px;
@@ -510,11 +409,8 @@ body {
 }
 
 .agencja-team-job4 {
-  position: absolute;
   width: 130px;
   height: 19px;
-  left: 70px;
-  top: 299px;
 
   font-weight: 400;
   line-height: 19px;
@@ -524,21 +420,15 @@ body {
 }
 
 .agencja-footer {
-  position: absolute;
   width: 1600px;
   height: 252px;
-  left: 0px;
-  top: 2097px;
 
   background: var(--dark-background-color);
 }
 
 .webstudio-footer {
-  position: absolute;
   width: 145px;
   height: 31px;
-  left: 215px;
-  top: 60px;
 
   text-decoration: none;
   font-weight: 700;
@@ -553,11 +443,8 @@ body {
 }
 
 .agencja-footer-address {
-  position: absolute;
   width: 246px;
   height: 21px;
-  left: 215px;
-  top: 111px;
 
   font-weight: 400;
   font-size: 0.875em;
@@ -571,11 +458,9 @@ body {
 .contact-mail-2 {
   text-decoration: none;
   color: var(--mian-font-color);
-  position: absolute;
+
   width: 135px;
   height: 16px;
-  left: 215px;
-  top: 141px;
 
   font-weight: 500;
   font-size: 0.875em;
@@ -594,11 +479,9 @@ body {
 .contact-phone-2 {
   text-decoration: none;
   color: var(--mian-font-color);
-  position: absolute;
+
   width: 110px;
   height: 16px;
-  left: 215px;
-  top: 171px;
 
   font-weight: 500;
   font-size: 0.875em;
@@ -615,19 +498,13 @@ body {
 }
 
 .portfolio-header {
-  position: absolute;
   width: 1600px;
   height: 80px;
-  left: 0px;
-  top: 0px;
 }
 
 .portfolio-footer {
-  position: absolute;
   width: 1600px;
   height: 252px;
-  left: 0px;
-  top: 1628px;
 
   background: var(--dark-background-color);
 }
@@ -637,11 +514,8 @@ body {
 }
 
 .portfolio-footer-address {
-  position: absolute;
   width: 246px;
   height: 21px;
-  left: 215px;
-  top: 111px;
 
   font-weight: 400;
   font-size: 0.875em;
@@ -652,11 +526,8 @@ body {
   color: var(--white-color);
 }
 .portfolio-stripe {
-  position: absolute;
   width: 1600px;
   height: 0px;
-  left: 0px;
-  top: 80px;
 
   border: 1px solid #ececec;
 }
@@ -666,11 +537,9 @@ body {
 }
 
 .portfolio-buttons-1 {
-  position: absolute;
   width: 121px;
   height: 38px;
-  left: 510px;
-  top: 174px;
+
   background: var(--light-background-color);
   border-radius: 4px;
 
@@ -703,11 +572,9 @@ body {
 }
 
 .portfolio-buttons-2 {
-  position: absolute;
   width: 93px;
   height: 38px;
-  left: 639px;
-  top: 174px;
+
   background: var(--light-background-color);
   border-radius: 4px;
 
@@ -739,11 +606,9 @@ body {
   color: var(--white-color);
 }
 .portfolio-buttons-3 {
-  position: absolute;
   width: 114px;
   height: 38px;
-  left: 740px;
-  top: 174px;
+
   background: var(--light-background-color);
   border-radius: 4px;
 
@@ -775,11 +640,9 @@ body {
   color: var(--white-color);
 }
 .portfolio-buttons-4 {
-  position: absolute;
   width: 91px;
   height: 38px;
-  left: 862px;
-  top: 174px;
+
   background: var(--light-background-color);
   border-radius: 4px;
 
@@ -811,11 +674,9 @@ body {
   color: var(--white-color);
 }
 .portfolio-buttons-5 {
-  position: absolute;
   width: 121px;
   height: 38px;
-  left: 961px;
-  top: 174px;
+
   background: var(--light-background-color);
   border-radius: 4px;
 
@@ -853,21 +714,15 @@ body {
 }
 
 .portfolio-img-1 {
-  position: absolute;
   width: 370px;
   height: 404px;
-  left: 215px;
-  top: 262px;
 
   border: 1px solid var(--list-border-color);
 }
 
 .portfolio-name-1 {
-  position: absolute;
   width: 322px;
   height: 36px;
-  left: 24px;
-  top: 314px;
 
   font-weight: 700;
   font-size: 1.125em;
@@ -879,11 +734,8 @@ body {
 }
 
 .portfolio-tag-1 {
-  position: absolute;
   width: 322px;
   height: 30px;
-  left: 24px;
-  top: 354px;
 
   font-weight: 400;
   line-height: 30px;
@@ -892,21 +744,15 @@ body {
 }
 
 .portfolio-img-2 {
-  position: absolute;
   width: 370px;
   height: 404px;
-  left: 615px;
-  top: 262px;
 
   border: 1px solid var(--list-border-color);
 }
 
 .portfolio-name-2 {
-  position: absolute;
   width: 322px;
   height: 36px;
-  left: 24px;
-  top: 314px;
 
   font-weight: 700;
   font-size: 1.125em;
@@ -918,11 +764,8 @@ body {
 }
 
 .portfolio-tag-2 {
-  position: absolute;
   width: 322px;
   height: 30px;
-  left: 24px;
-  top: 354px;
 
   font-weight: 400;
   line-height: 30px;
@@ -931,21 +774,15 @@ body {
 }
 
 .portfolio-img-3 {
-  position: absolute;
   width: 370px;
   height: 404px;
-  left: 1015px;
-  top: 262px;
 
   border: 1px solid var(--list-border-color);
 }
 
 .portfolio-name-3 {
-  position: absolute;
   width: 322px;
   height: 36px;
-  left: 24px;
-  top: 314px;
 
   font-weight: 700;
   font-size: 1.125em;
@@ -957,11 +794,8 @@ body {
 }
 
 .portfolio-tag-3 {
-  position: absolute;
   width: 322px;
   height: 30px;
-  left: 24px;
-  top: 354px;
 
   font-weight: 400;
   line-height: 30px;
@@ -970,21 +804,15 @@ body {
 }
 
 .portfolio-img-4 {
-  position: absolute;
   width: 370px;
   height: 404px;
-  left: 215px;
-  top: 696px;
 
   border: 1px solid var(--list-border-color);
 }
 
 .portfolio-name-4 {
-  position: absolute;
   width: 322px;
   height: 36px;
-  left: 24px;
-  top: 314px;
 
   font-weight: 700;
   font-size: 1.125em;
@@ -996,11 +824,8 @@ body {
 }
 
 .portfolio-tag-4 {
-  position: absolute;
   width: 322px;
   height: 30px;
-  left: 24px;
-  top: 354px;
 
   font-weight: 400;
   line-height: 30px;
@@ -1009,21 +834,15 @@ body {
 }
 
 .portfolio-img-5 {
-  position: absolute;
   width: 370px;
   height: 404px;
-  left: 615px;
-  top: 696px;
 
   border: 1px solid var(--list-border-color);
 }
 
 .portfolio-name-5 {
-  position: absolute;
   width: 322px;
   height: 36px;
-  left: 24px;
-  top: 314px;
 
   font-weight: 700;
   font-size: 1.125em;
@@ -1035,11 +854,8 @@ body {
 }
 
 .portfolio-tag-5 {
-  position: absolute;
   width: 322px;
   height: 30px;
-  left: 24px;
-  top: 354px;
 
   font-weight: 400;
   line-height: 30px;
@@ -1048,21 +864,15 @@ body {
 }
 
 .portfolio-img-6 {
-  position: absolute;
   width: 370px;
   height: 404px;
-  left: 1015px;
-  top: 696px;
 
   border: 1px solid var(--list-border-color);
 }
 
 .portfolio-name-6 {
-  position: absolute;
   width: 322px;
   height: 36px;
-  left: 24px;
-  top: 314px;
 
   font-weight: 700;
   font-size: 1.125em;
@@ -1074,11 +884,8 @@ body {
 }
 
 .portfolio-tag-6 {
-  position: absolute;
   width: 322px;
   height: 30px;
-  left: 24px;
-  top: 354px;
 
   font-weight: 400;
   line-height: 30px;
@@ -1087,21 +894,15 @@ body {
 }
 
 .portfolio-img-7 {
-  position: absolute;
   width: 370px;
   height: 404px;
-  left: 215px;
-  top: 1130px;
 
   border: 1px solid var(--list-border-color);
 }
 
 .portfolio-name-7 {
-  position: absolute;
   width: 322px;
   height: 36px;
-  left: 24px;
-  top: 314px;
 
   font-weight: 700;
   font-size: 1.125em;
@@ -1113,11 +914,8 @@ body {
 }
 
 .portfolio-tag-7 {
-  position: absolute;
   width: 322px;
   height: 30px;
-  left: 24px;
-  top: 354px;
 
   font-weight: 400;
   line-height: 30px;
@@ -1126,21 +924,15 @@ body {
 }
 
 .portfolio-img-8 {
-  position: absolute;
   width: 370px;
   height: 404px;
-  left: 615px;
-  top: 1130px;
 
   border: 1px solid var(--list-border-color);
 }
 
 .portfolio-name-8 {
-  position: absolute;
   width: 322px;
   height: 36px;
-  left: 24px;
-  top: 314px;
 
   font-weight: 700;
   font-size: 1.125em;
@@ -1152,11 +944,8 @@ body {
 }
 
 .portfolio-tag-8 {
-  position: absolute;
   width: 322px;
   height: 30px;
-  left: 24px;
-  top: 354px;
 
   font-weight: 400;
   line-height: 30px;
@@ -1165,21 +954,15 @@ body {
 }
 
 .portfolio-img-9 {
-  position: absolute;
   width: 370px;
   height: 404px;
-  left: 1015px;
-  top: 1130px;
 
   border: 1px solid var(--list-border-color);
 }
 
 .portfolio-name-9 {
-  position: absolute;
   width: 322px;
   height: 36px;
-  left: 24px;
-  top: 314px;
 
   font-weight: 700;
   font-size: 1.125em;
@@ -1191,11 +974,8 @@ body {
 }
 
 .portfolio-tag-9 {
-  position: absolute;
   width: 322px;
   height: 30px;
-  left: 24px;
-  top: 354px;
 
   font-weight: 400;
   line-height: 30px;
