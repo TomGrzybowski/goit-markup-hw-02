@@ -50,6 +50,10 @@ body {
   letter-spacing: 0.06em;
 }
 
+.agencja-button:hover {
+  cursor: pointer;
+}
+
 .agencja-title {
   width: 1600px;
   height: 600px;
